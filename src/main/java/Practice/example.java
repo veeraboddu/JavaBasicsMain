@@ -11,6 +11,7 @@ class example
 	public static void main (String[] args) throws Exception
     {
         System.out.println("Hello Java");
+		System.out.println("Hello Java one");
         
       //  squareMatrix();
         //�	Two lists, 1,2,3 and 1,2,3,4,5, write a program to find the difference in these two lists. Using arrays OR hasmaps OR nested for loop, and to write test cases based on these.
